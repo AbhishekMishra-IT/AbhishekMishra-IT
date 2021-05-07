@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AbhishekMishra-IT
-- 👀 I’m interested in Software IT
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning React Native
 - 📫 How to reach me- (abhishekmofficial12@gmail.com)
 
