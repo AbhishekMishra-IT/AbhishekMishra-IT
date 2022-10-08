@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbhishekMishra-IT
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning React Native
+- 👀 Working as a Software Developer
+- 🌱 Mobile App and Web App Development
 - 📫 How to reach me- (abhishekmofficial12@gmail.com)
 
 <!---
