@@ -2,7 +2,7 @@
 
 ### Software Engineer · React Native Developer
 
-I build fast, polished cross-platform mobile apps for Android and iOS. Over 5+ years I've shipped B2B and B2C products with offline-first architecture, real-time data sync and pixel-perfect UI, from social apps to field-sales tools.
+I build fast, polished cross-platform mobile apps for Android and iOS. Over 5 years I've shipped B2B and B2C products with offline-first architecture, real-time data sync and pixel-perfect UI, from social apps to field-sales tools.
 
 📍 Noida, India · 💼 Currently a React Native Developer at **Oceanstep Client Centric India**
 
