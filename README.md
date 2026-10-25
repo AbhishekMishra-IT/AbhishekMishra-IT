@@ -4,6 +4,8 @@
 
 I build fast, polished cross-platform mobile apps for Android and iOS. Over 5 years I've shipped B2B and B2C products with offline-first architecture, real-time data sync and pixel-perfect UI, from social apps to field-sales tools.
 
+🌐 **Portfolio:** [abhishekmishra-it.github.io/my_portfolio](https://abhishekmishra-it.github.io/my_portfolio/)
+
 📍 Noida, India · 💼 Currently a React Native Developer at **Oceanstep Client Centric India**
 
 ## 🛠️ Tech stack
@@ -54,6 +56,7 @@ Generative AI, prompt engineering and LLM integration in mobile apps.
 
 ## 📫 Let's connect
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abhishekmishra-it.github.io/my_portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishekmishra-it)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dreamsplanning.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekmofficial12@gmail.com)
